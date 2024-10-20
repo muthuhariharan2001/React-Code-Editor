@@ -32,7 +32,7 @@ app.get("/", (req, res) => {
     </head>
     <body>
         <h1>Your server is live!</h1>
-        <p><a href="/frontend">Go to Frontend Page</a></p>
+        <p><a href="https://codenetmaster.netlify.app/" target="_blank">Go to Frontend Page</a></p>
     </body>
     </html>
   `;
