@@ -27,7 +27,7 @@ app.get("/", (req, res) => {
             body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
             h1 { color: #333; }
             a { color: #007BFF; text-decoration: none; font-size: 18px; }
-            a:hover { text-decoration: underline; }
+            a:hover { text-decoration: underline; } 
         </style>
     </head>
     <body>
